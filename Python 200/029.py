@@ -1,4 +1,4 @@
-# 029.py
+# 029.py - 시퀀스 자료 연결 이해하기(+)
 
 strdata1 ='I love'; strdata2 = 'Python'; strdata3 = 'you'
 listdata1 = [1, 2, 3]; listdata2 = [4, 5, 6]

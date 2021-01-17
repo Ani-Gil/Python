@@ -1,4 +1,4 @@
-# 003.py
+# 003.py - 변수명 만들기
 
 _myname = 'samsjang'
 my_name = '홍길동'

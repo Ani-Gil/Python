@@ -1,4 +1,4 @@
-# 007.py
+# 007.py 자료형 출력 개념 배우기(print)
 
 a = 200
 msg = 'I love Python'

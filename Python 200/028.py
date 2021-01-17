@@ -1,4 +1,4 @@
-# 028.py
+# 028.py - 시퀀스 자료 슬라이싱 이해하기
 
 strdata = 'Time is money!!'
 print(strdata[1:5])             #'ime'가 출력됨

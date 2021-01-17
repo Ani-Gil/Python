@@ -1,4 +1,4 @@
-# 015.py
+# 015.py - None 개념 배우기
 
 var = None
 condition = 1

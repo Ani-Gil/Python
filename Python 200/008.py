@@ -1,4 +1,4 @@
-# 008.py
+# 008.py -  들여쓰기 개념 배우기
 
 listdata = ['a', 'b', 'c']
 if 'a' in listdata:

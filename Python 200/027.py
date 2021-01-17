@@ -1,4 +1,4 @@
-# 027.py
+# 027.py - 시퀀스 자료 인덱싱 이해하기
 
 strdata = 'Time is money!!'
 listdata = [1, 2, [1, 2, 3]]

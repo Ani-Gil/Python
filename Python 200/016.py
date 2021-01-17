@@ -1,4 +1,4 @@
-# 016.py
+# 016.py - 정수형 자료 이해하기
 
 int_data = 10
 bin_data = 0b10

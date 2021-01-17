@@ -1,4 +1,4 @@
-# 024.py
+# 024.py - 논리 연산자 이해하기(and, or, not)
 
 bool1 = True; bool2 = False; bool3 = True; bool4 = False
 print(bool1 and bool2)          # False가 출력됨

@@ -1,4 +1,4 @@
-# 022.py
+# 022.py - True와 False 이해하기
 
 a = True
 b = False
